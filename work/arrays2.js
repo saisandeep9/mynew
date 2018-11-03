@@ -25,6 +25,7 @@ let sortlist2 = restraurant.workes.
 sort((p1,p2)=>p1.DOB<(p2.DOB));
 
 
+
 console.log(sortlist2)
 let SortByGender=restraurant.workes.sort(p1,p2)
 
